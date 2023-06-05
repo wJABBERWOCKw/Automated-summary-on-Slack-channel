@@ -3,11 +3,17 @@ Automated Periodic Data summary sent to slack channels  using Python
 
 Dataset- Covid 19 state level data 
 which contains
+
 date      datetime64[ns]
+
 state             object
+
 fips               int64
+
 cases              int64
+
 deaths             int64
+
 dtype: object
 
 Data engineering part 
