@@ -46,3 +46,8 @@ from slack_sdk import WebClient
 
 import time
 
+
+
+![image_2023-06-04_15-40-19](https://github.com/wJABBERWOCKw/Automated-summary-on-Slack-channel/assets/91718184/1055f721-937b-4026-a2c7-4702a4f4fb73)
+
+
